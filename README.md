@@ -28,24 +28,25 @@ Start by downloading or cloning the project and run 'Content Based Movie Recomme
 To clone the code follow the command:
 -      👉🏻 git clone https://github.com/Shraddha-Garg/movie-nation-recommendation.git
 
-# Pre - Requisites
+# Prerequisites
 You need to have installed following softwares and libraries before running this project.
 	1.  python version (3.10)
 	2.  PyAudio version (0.2.11)
 	3.  Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, numpy
 	4.  Streamlit: pip install streamlit
 	5.  Streamlit_Lottie: pip install streamlit_lottie
-	6.  similarity.pkl: download this file through the link --->  https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing
+	6.  similarity.pkl: download this file through the link --->  https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing  and after downloading copy it to the location where all other cloned files are extracted
 
 # Steps to Run Code
 -      👉🏻 git clone https://github.com/Shraddha-Garg/movie-nation-recommendation.git
+-      👉🏻 Open file app.py with VS Code. Then in the terminal install the following requirements:
 -      👉🏻 pip install pipwin
 -      👉🏻 pipwin install pyaudio
 -      👉🏻 python -m pip install --upgrade pip
 -      👉🏻 python -m pip install -r requirements.txt
 -      👉🏻 pip install streamlit
 -      👉🏻 pip install streamlit_lottie
--      👉🏻 Now download similarity.pkl file through the link --> https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing for code to execute
+-      👉🏻 Now download similarity.pkl file through the link --> https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing for code to execute and after downloading copy it to the location where all other cloned files are extracted
 -      👉🏻 streamlit run app.py
 
 # Built With
