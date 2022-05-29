@@ -17,3 +17,16 @@ You can click the Preview link to take a look at your changes.
 Feel Free to send me pull request with support of you lets make Python project at next level. 🥰
 # python version 3.10
 # PyAudio version 0.2.11
+
+# steps to run code
+-      👉🏻 git clone https://github.com/Shraddha-Garg/movie-nation-recommendation.git
+-      👉🏻 pip install pipwin
+-      👉🏻 pipwin install pyaudio
+-      👉🏻 python -m pip install --upgrade pip
+-      👉🏻 python -m pip install -r requirements.txt
+-      👉🏻 pip install streamlit
+-      👉🏻 pip install streamlit_lottie
+-      👉🏻 Now download similarity.pkl file through the link --> https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing for code to execute
+-      👉🏻 streamlit run app.py
+
+# enjoy the project.
