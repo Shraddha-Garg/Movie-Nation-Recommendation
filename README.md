@@ -30,14 +30,14 @@ To clone the code follow the command:
 
 # Pre - Requisites
 You need to have installed following softwares and libraries before running this project.
-	1. python version 3.10
-	2. PyAudio version 0.2.11
-	3. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, numpy
-	4. Streamlit: pip install streamlit
-	5. Streamlit_Lottie: pip install streamlit_lottie
-	6. similarity.pkl: download this file through the link --->  https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing
+	1.  python version (3.10)
+	2.  PyAudio version (0.2.11)
+	3.  Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, numpy
+	4.  Streamlit: pip install streamlit
+	5.  Streamlit_Lottie: pip install streamlit_lottie
+	6.  similarity.pkl: download this file through the link --->  https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing
 
-# Rteps to Run Code
+# Steps to Run Code
 -      👉🏻 git clone https://github.com/Shraddha-Garg/movie-nation-recommendation.git
 -      👉🏻 pip install pipwin
 -      👉🏻 pipwin install pyaudio
@@ -52,7 +52,7 @@ You need to have installed following softwares and libraries before running this
 	1. ipython-notebook:  Python Text Editor (Jupyter Notebook) to load and pre-process data
 	2. sklearn:  Machine Learning Library
 	3. difflib:  Comparing Sequences (here, movie title input by the user from the titles available from imported database)
-	4. pickle:  serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and      1s) is called pickling whereas converting the byte stream (generated through pickling) back into python objects by a process called as unpickling.
+	4. pickle:  serializing and de-serializing python object structures. The process to converts any kind of python objects (list, dict, etc.) into byte streams (0s and 1s) is called pickling whereas converting the byte stream (generated through pickling) back into python objects by a process called as unpickling.
 	5. numpy:  Number Python Library
 	6. pandas:  Data Handling Library
 	7. streamlit:  Used for making recommendation system models
