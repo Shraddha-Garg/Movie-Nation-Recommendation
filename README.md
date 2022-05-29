@@ -35,7 +35,7 @@ You need to have installed following softwares and libraries before running this
 	3.  Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, numpy
 	4.  Streamlit: pip install streamlit
 	5.  Streamlit_Lottie: pip install streamlit_lottie
-	6.  similarity.pkl: download this file through the link --->  https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing  and after downloading copy it to the location where all other cloned files are extracted
+	6.  similarity.pkl: download this file through the link --->  "https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing" and after downloading copy it to the location where all other cloned files are extracted
 
 # Steps to Run Code
 -      👉🏻 git clone https://github.com/Shraddha-Garg/movie-nation-recommendation.git
@@ -46,7 +46,7 @@ You need to have installed following softwares and libraries before running this
 -      👉🏻 python -m pip install -r requirements.txt
 -      👉🏻 pip install streamlit
 -      👉🏻 pip install streamlit_lottie
--      👉🏻 Now download similarity.pkl file through the link --> https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing for code to execute and after downloading copy it to the location where all other cloned files are extracted
+-      👉🏻 Now download similarity.pkl file through the link --> "https://drive.google.com/file/d/1V37It9DJXF-9MR9UrBu4dJxMPL46n9DQ/view?usp=sharing" for code to execute and after downloading copy it to the location where all other cloned files are extracted
 -      👉🏻 streamlit run app.py
 
 # Built With
